@@ -1,3 +1,13 @@
 body {
   font-family: sans-serif;
+
+  background-color: greenyellow;
+}
+
+.mid {
+  background-color: royalblue;
+}
+
+.big {
+  background-color: peachpuff;
 }
